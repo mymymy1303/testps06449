@@ -16,6 +16,7 @@ public class Testps06449 {
      */
     public static void main(String[] args) {
         System.out.println("Xin Chao The Gioi");
+        System.out.println("Test");
     }
     
 }
